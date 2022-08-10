@@ -15,7 +15,7 @@ mvn install
 
 
 ## Rest API Client
-[ThunderClient](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+Install this VS Code extension to have REST API Client [ThunderClient](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ```javascript
 // Add the following line to your VS code settings to load the API from workspace
